@@ -23,21 +23,6 @@
             "opening_hours": {
                 "open_now": true
             },
-            "photos": [
-                {
-                    "height": 3072,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/100932868196759278029\">Au Rocher de Cancale</a>"
-                    ],
-                    "photo_reference": "ATtYBwJJ10Mhoj4jp17b5Uwx-dnFzsfLKJr7-ICSi6xNlfE1Xo0HWZ2oI73isfsPpF2FLzBTg908hjuIZhc3o6qj_i62uHtm9nZBsAjMrXtyXueAsQVYkBLIH8ppAr5ydwsMo9NkkdBK9x1mI5VEW3hev7gtz_kWrI_IXyEcWoSoQ_a_VnvI",
-                    "width": 2329
-                }
-            ],
-            "place_id": "ChIJUTbSJBhu5kcRPvnLYEkhHgM",
-            "plus_code": {
-                "compound_code": "V88W+6V Paris, France",
-                "global_code": "8FW4V88W+6V"
-            },
             "price_level": 2,
             "rating": 3.9,
             "reference": "ChIJUTbSJBhu5kcRPvnLYEkhHgM",
@@ -74,21 +59,6 @@
             "opening_hours": {
                 "open_now": true
             },
-            "photos": [
-                {
-                    "height": 1836,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/111493539399150516529\">james COHEN-GANOUNA</a>"
-                    ],
-                    "photo_reference": "ATtYBwLziP1r89bhiA5yY_2Uy4T48ALqE0esPpMqG5G7gduckGxGptO9dP4Z-wjiTjWC-TUBra0GBl9X1YX3E1rnNprigrWZKaIX-6ydpMTNIjgZYavw3q-jq6IrDM2kdxssiE-0I_aGZpvJB4vUlMw41d94ZKXMcB2B3SPinHqEN8cVL6b-",
-                    "width": 3264
-                }
-            ],
-            "place_id": "ChIJFblAOxhu5kcRLU_5deSEIlM",
-            "plus_code": {
-                "compound_code": "V88W+5V Paris, France",
-                "global_code": "8FW4V88W+5V"
-            },
             "rating": 4.1,
             "reference": "ChIJFblAOxhu5kcRLU_5deSEIlM",
             "scope": "GOOGLE",
@@ -100,106 +70,6 @@
             ],
             "user_ratings_total": 20,
             "vicinity": "76 Rue Montorgueil, Paris"
-        },
-        {
-            "business_status": "CLOSED_TEMPORARILY",
-            "geometry": {
-                "location": {
-                    "lat": 48.86563769999999,
-                    "lng": 2.3468396
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 48.8669763302915,
-                        "lng": 2.348282580291502
-                    },
-                    "southwest": {
-                        "lat": 48.8642783697085,
-                        "lng": 2.345584619708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-            "name": "EXKi Montorgueil",
-            "permanently_closed": true,
-            "photos": [
-                {
-                    "height": 682,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/101137130729556161249\">EXKi Montorgueil</a>"
-                    ],
-                    "photo_reference": "ATtYBwKUY731GZEIAOssbfCyxYS7OwTodYQoR6Eq7_LoWJuWVfFQ2anSM6YGc-AAptpYCM7vJ1UTurocMhG2lojsYYJyMCAkajeezJT4FDeTs8Wjxh-RJ-sevk4TWK0I3MfM4mtlL314X9SY1uMPOJm8eSkTuyI1yEFD3Q96UVqAFEap2B9W",
-                    "width": 1024
-                }
-            ],
-            "place_id": "ChIJx8-yIhhu5kcRHwNveA8HK3g",
-            "plus_code": {
-                "compound_code": "V88W+7P Paris, France",
-                "global_code": "8FW4V88W+7P"
-            },
-            "rating": 4,
-            "reference": "ChIJx8-yIhhu5kcRHwNveA8HK3g",
-            "scope": "GOOGLE",
-            "types": [
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 451,
-            "vicinity": "59 Rue Montorgueil, Paris"
-        },
-        {
-            "business_status": "OPERATIONAL",
-            "geometry": {
-                "location": {
-                    "lat": 48.8657684,
-                    "lng": 2.3471798
-                },
-                "viewport": {
-                    "northeast": {
-                        "lat": 48.86712258029149,
-                        "lng": 2.348469530291502
-                    },
-                    "southwest": {
-                        "lat": 48.8644246197085,
-                        "lng": 2.345771569708498
-                    }
-                }
-            },
-            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-            "name": "Monthaï",
-            "opening_hours": {
-                "open_now": false
-            },
-            "photos": [
-                {
-                    "height": 4032,
-                    "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/114625801121872149942\">RANCAN Loïc</a>"
-                    ],
-                    "photo_reference": "ATtYBwIwseNHGvk1kVwLSZ9074ujpN0nuAyBdZ1MBdo4ufpuJMSrKvQeVxTxXalunGKSIAiL3FNSr0Um71yFCSZRqvS79UhIG3YXPNjVwsn4ahF60s8COkTsCBkN5GLFMBjqeoFSu1eBml9tdnXMVlwXdxljZLMSSwX--7Odj7MYh-DujJpO",
-                    "width": 3024
-                }
-            ],
-            "place_id": "ChIJS7lQJBhu5kcRygimYfpKftA",
-            "plus_code": {
-                "compound_code": "V88W+8V Paris, France",
-                "global_code": "8FW4V88W+8V"
-            },
-            "price_level": 2,
-            "rating": 3.9,
-            "reference": "ChIJS7lQJBhu5kcRygimYfpKftA",
-            "scope": "GOOGLE",
-            "types": [
-                "meal_takeaway",
-                "restaurant",
-                "food",
-                "point_of_interest",
-                "establishment"
-            ],
-            "user_ratings_total": 699,
-            "vicinity": "84 Rue Montorgueil, Paris"
         }
     ]
 }
